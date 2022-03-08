@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <title>Class 01 Lab</title>
+     <style>
+       body {
+         background-color: lightcoral;
+        }
+       h1 {
+         background-color: blueviolet;
+         color: black;
+       }
+     </style>
+   </head>
+   <body>
+      <header>
+        <h1>Class 01 lab</h1>
+      </header>
+      <main>
+        <p style="background-color: aqua; color: orangered;">What is your name?</p>
+        <p style="background-color: teal; color: orange;">How tall are you?</p>
+        <p style="background-color: maroon; color: orangered;">Favorite marvel hero?</p>
+        <p style="background-color: royalblue; color: black;">Favorite food?</p>
+      </main>
+      <footer></footer>
+
+      <script>
+       console.log('Greeting from the mountain');
+       
+       let responeOne = prompt('What is your name?');
+
+       alert('Hello ' + responeOne + "!");
+       console.log('user response to q1 was ' + responeOne);
+
+       let responeTwo = prompt('How tall are you?');
+
+       alert('Wow you are almost as tall as me! ' + 'With your height of '  + responeTwo +  responeOne + '!');
+
+        console.log('user response to q2 was ' + responeTwo);
+
+        let responeThree = prompt('Favorite marvel hero');
+
+        alert('Trick question it is Deadpool ' + 'Not! ' + responeThree + responeOne + responeTwo + '!')
+      
+        console.log('user response to q3 was ' + responeThree);
+
+        let responeFour = prompt('Favorite food?');
+
+        alert('OH MY THAT SOUNDS DELICIOUS! ' + 'Mine is anything I cook! ' + responeOne + responeThree );
+
+        console.log('user response to q4 was ' + responeFour);
+        
+            
+      </script>
+   </body>
+</html>

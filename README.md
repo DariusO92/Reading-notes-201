@@ -6,7 +6,7 @@ Hello everyone my Name is Darius Owens and welcome to my page!:boom:
 
 ## Table of Contents
 - [Day one notes](class-01.md)
-- [Day two notes]()
+- [Day two notes](class-02.md)
 - [Day three notes]()
 - [Day four notes]()
 - [Day five notes]()
