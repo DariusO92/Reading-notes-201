@@ -1,6 +1,6 @@
 # Reading Notes
 
-## ## CH.15 Layout
+## CH.15 Layout
 
 -<div> elements are often used as containing element to group together sections of a page
 - Browsers display pages in normal flow unless you specify relative, absolute, or fixed positioning
