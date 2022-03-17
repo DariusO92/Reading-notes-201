@@ -13,7 +13,7 @@ Hello everyone my Name is Darius Owens and welcome to my page!:boom:
 - [Day six notes](class-06.md)
 - [Day seven notes](class-07.md)
 - [Day eight notes](class-08.md)
-- [Day nine notes]()
+- [Day nine notes](class-09.md)
 - [Day ten notes]()
 - [Day eleven notes]()
 - [Day twelve notes]()
