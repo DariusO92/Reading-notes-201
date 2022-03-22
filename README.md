@@ -17,7 +17,7 @@ Hello everyone my Name is Darius Owens and welcome to my page!:boom:
 - [Day ten notes](class-10.md)
 - [Day eleven notes](class-11.md)
 - [Day twelve notes](class-12.md)
-- [Day thirteen notes]()
+- [Day thirteen notes](class-13.md)
 - [Day fourteen notes]()
 - [Day fifteen notes]()
 
